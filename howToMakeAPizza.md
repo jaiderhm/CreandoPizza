@@ -1,3 +1,12 @@
+Preparacion de la masa
+
+1 En un bol grande introducimos parte de la harina de fuerza de trigo. Dejamos unas 4 cucharadas de harina separadas para ir engordando la masa. Con una cuchara hacemos un hoyo en el centro del bol y echamos la levadura disuelta en el agua.
+
+2 Batimos con una cuchara de madera desde el centro hacia afuera y vamos poco a poco mezclando con la harina. Añadimos el aceite de oliva virgen extra y la sal. Es importante que la sal y la levadura no entren en contacto directo para no tener problemas en el proceso de fermentación.
+
+3 Seguimos removiendo lo que empieza a ser la masa, por ahora será una mezcla pegajosa pero firme. Preparamos la zona donde vamos a amasar, por ejemplo la encimera de la cocina es perfecta.
+
+
 Ingredientes
 
 1 cucharada de aceite (14 ml)
@@ -11,6 +20,7 @@ Ingredientes
 
 Preparacion
 
+
 paso a paso de horneando una pizza
 1 Precalentar el horno a tope 220º 
 2 Colocar la pizza en la rejilla para que le entre el calor 
@@ -18,3 +28,5 @@ paso a paso de horneando una pizza
 4 esperar 20 minutos aproximadamente 
 5 se saca la pizza del horno
 6 la rebano la pizza
+
+
