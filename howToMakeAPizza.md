@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 Preparacion de la masa
 
 1 En un bol grande introducimos parte de la harina de fuerza de trigo. Dejamos unas 4 cucharadas de harina separadas para ir engordando la masa. Con una cuchara hacemos un hoyo en el centro del bol y echamos la levadura disuelta en el agua.
@@ -30,3 +32,9 @@ paso a paso de horneando una pizza
 6 la rebano la pizza
 
 
+>>>>>>> 09289fcbf62b212b3e6935388d6b5448d34943d8
+
+tanqueamos la moto
+vamos a la zona de despacho
+tomamos el pedido 
+entregamos el pedido
