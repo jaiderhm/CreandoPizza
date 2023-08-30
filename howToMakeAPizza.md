@@ -5,8 +5,8 @@ Preparacion de la masa
 2 Batimos con una cuchara de madera desde el centro hacia afuera y vamos poco a poco mezclando con la harina. Añadimos el aceite de oliva virgen extra y la sal. Es importante que la sal y la levadura no entren en contacto directo para no tener problemas en el proceso de fermentación.
 
 3 Seguimos removiendo lo que empieza a ser la masa, por ahora será una mezcla pegajosa pero firme. Preparamos la zona donde vamos a amasar, por ejemplo la encimera de la cocina es perfecta.
-<<<<<<< HEAD
-=======
+
+
 Ingredientes
 
 1 cucharada de aceite (14 ml)
@@ -19,4 +19,14 @@ Ingredientes
 1/2 cucharadita al ras de orégano seco (2 g)
 
 Preparacion
->>>>>>> 267fcfe6050f13d447584e4f36267db90738b2da
+
+
+paso a paso de horneando una pizza
+1 Precalentar el horno a tope 220º 
+2 Colocar la pizza en la rejilla para que le entre el calor 
+3 meter la pizza en el horno 
+4 esperar 20 minutos aproximadamente 
+5 se saca la pizza del horno
+6 la rebano la pizza
+
+
