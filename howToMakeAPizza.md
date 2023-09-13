@@ -54,3 +54,10 @@ Paso para agregar ingredientes:
 2. Agregar los 400gr de queso mozzarella rallado suficiente
 3. Agregar los 150g de jamón 
 4. Agregar los trozos de piña
+
+Pasos para empacar una pizza
+
+1. Procedemos con nuestras porciones de pizza 
+2. las colocamos en su molde acorde a la cantidad
+3. buscamos nuestra caja de su tamaño
+4. y empacamos para nuestra entrega
