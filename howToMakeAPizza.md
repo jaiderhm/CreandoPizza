@@ -61,3 +61,10 @@ Pasos para empacar una pizza
 2. las colocamos en su molde acorde a la cantidad
 3. buscamos nuestra caja de su tamaño
 4. y empacamos para nuestra entrega
+
+pasos para ordenar los pedidos
+1. recibir la llamada del ciente
+2. preguntarle que desea comprar 
+3. preguntar dirrecion de residencia
+4. confirmar y agendar el pedido
+5. darle la orden al domiciliario para que lleve la pizza
