@@ -68,3 +68,11 @@ pasos para ordenar los pedidos
 3. preguntar dirrecion de residencia
 4. confirmar y agendar el pedido
 5. darle la orden al domiciliario para que lleve la pizza
+
+Pasos para publicidad de la pizzeria 
+1. Crear una pagina
+2. subir productos y colocar precios
+3. colocar numero de domicilios
+4. llamar la atencion con descuentos 
+5. invertir en la pagina 
+6. Crear otras paginas como facebook y instagram para aprovechar la magnitud de las redes sociales para asi incrementar las ventas 
